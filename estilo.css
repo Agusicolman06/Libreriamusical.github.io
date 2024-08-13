@@ -1,0 +1,78 @@
+header{
+    text-align: center;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: black;
+    font-size: 35px;
+    background-color: rgb(26, 26, 26);
+}
+
+label{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    margin-top: 1%;
+    font-size: 20px;
+    color: rgb(255, 251, 5);
+    
+    margin-bottom: 15px;
+    
+}
+
+input{
+    height: 30px;
+    width: 500px;
+    margin-top: 5px;
+    align-items: center;
+    display: flex;
+    background-color: rgb(226, 222, 169);
+}
+
+.container {
+    display: flex;
+    justify-content: center;
+}
+
+.inputs{
+    height: 50px;
+    margin-left: 30px;
+    margin-top: 20px;
+    width: 80px;
+    padding: 8px;
+    border-radius: 30px;
+    background-color: rgb(228, 206, 7);
+    font-size: 20px;
+    cursor: pointer;
+}
+
+h1{
+    color:white;
+}
+
+body{
+    background: linear-gradient(rgb(0, 0, 0),rgb(84, 39, 128)) fixed;
+    background-repeat: no-repeat;
+    height: 100vh;
+}
+
+h2 {
+    font-size: 50px;
+    text-align: center;
+    margin-top: 20px;
+    color: azure;
+    margin-top: 100px;
+}
+
+ul {
+    text-align: center;
+    display:flex ;
+    font-size: 20px;
+}
+
+h3 {
+    color: white;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+.container2 div {
+    display: flex;
+    gap: 30px;
+    justify-content: center;
+}
